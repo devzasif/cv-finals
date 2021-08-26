@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title> New website </title>
+</head>
+
+<body>
+<p> </p>
+<h1> </h1>
+<textarea></textarea>
+<ul> 
+<li> </li> 
+</ul>
+
+<ol> 
+<li> </li> 
+</ol>
+</body>
+<a href="https....."> Mcwesite </a>
+<a download href="https....."> Mcwesite </a>
+<a srcimg="https..... OR pic.jpg OR website/images/pic.jpg" alt="Profile pic"> Mcwesite </a>
+<a href="hobbies.html">Our Services</a> <br/>
+
+
+<table cellspacing="10">
+    <thead>
+    </thead>
+  <tbody>
+    <tr>
+      <td>Photoshop </td>
+    <td> ★★★★ </td>
+    <td>Illustrator </td>
+  <td> ★★★ </td>
+    </tr>
+    <tr>
+      <td>Premiere Pro </td>
+    <td> ★★★ </td>
+    <td>After Effects </td>
+  <td> ★★★ </td>
+    </tr>
+  </tbody>
+  <tfoot>
+  </tfoot>
+  </table>
+
+<form class="" action="index.html" method="post">
+  <label>Your Name:</label>
+<input type="text" name="" value="">
+<input type="color" name="" value="">
+<br>
+<label> Do you want to signup to the email list? </label>
+<input type="checkbox" name="" > <br>
+<label>Passsword:</label>
+<input type="password" name="" value="">
+<input type="submit" name="" value="save"><br>
+
+<label>Choose file</label>
+<input type="file" name="" value=""><br>
+<input type="date" name="" value=""><br>
+<input type="radio" name="" value=""><br>
+<input type="range" name="" value=""><br>
+
+  <label>Your Email</label>
+  <label>Your Message</label>
+
+</form>
+
+
+
+
